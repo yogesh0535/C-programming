@@ -1,8 +1,4 @@
-//  create a program to store 10 number and array and sum them 
-//
-// Language: c
-// Path: sum.c
-// Compare this snippet from reverse.c:
+
 #include<stdio.h>
 int main(int argc, char const *argv[])
 {
