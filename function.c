@@ -1,18 +1,5 @@
-// predefined
-// syntax -> rules
-// symantic -> logic
-// user define
-// printf
-// they end with ()
-// f(x) = x*x*x
-// return_type function_name(argument_type argument_name){
-//    ..........
-// }
+
 #include <stdio.h>
-// prototype -> function may be
-// anywhere but we define function
-// signature
-// void greeting();
 
 int main()
 {
@@ -30,9 +17,6 @@ int main()
             // internal_function();
                 }
     }
-    // internal_function();
-
-    // greeting();
 }
 
 void greeting()
